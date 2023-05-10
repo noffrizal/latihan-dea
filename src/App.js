@@ -12,7 +12,7 @@ function App() {
         <Navbar />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Halo Cuy
+          Halo Cuy selamat datang deh disini 
         </p>
         <MyButton />
         <Footer />
